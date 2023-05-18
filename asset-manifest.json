@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mile-to-Kilometer/static/css/main.e6c13ad2.css",
+    "main.js": "/Mile-to-Kilometer/static/js/main.7d0d3236.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Mile-to-Kilometer/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Mile-to-Kilometer/index.html",
+    "main.e6c13ad2.css.map": "/Mile-to-Kilometer/static/css/main.e6c13ad2.css.map",
+    "main.7d0d3236.js.map": "/Mile-to-Kilometer/static/js/main.7d0d3236.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Mile-to-Kilometer/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d0d3236.js"
+  ]
+}
